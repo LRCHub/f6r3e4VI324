@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "シーソー - Seesaw",
+  "base_artist": "tuki.",
+  "createdAt": "2025-12-05T13:05:20.498315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シーソー",
+      "artist": "田所あずさ",
+      "has_synced": false,
+      "path": "select/01_シーソー_田所あずさ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シーソー",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/02_シーソー_tuki..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シーソー - Seesaw",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/03_シーソー_-_Seesaw_tuki..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SEE-SAW LOVE(シーソー・ラブ)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/04_SEE-SAW_LOVE(シーソー・ラブ)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SEE-SAW LOVE(シーソー・ラブ)",
+      "artist": "Miki Matsubara",
+      "has_synced": false,
+      "path": "select/05_SEE-SAW_LOVE(シーソー・ラブ)_Miki_Matsubara.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SEE-SAW LOVE(シーソー・ラブ)",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/06_SEE-SAW_LOVE(シーソー・ラブ)_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エゴイスティック・シーソー",
+      "artist": "博衣こより",
+      "has_synced": true,
+      "path": "select/07_エゴイスティック・シーソー_博衣こより.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SEE‐SAW LOVE（シーソー・ラブ）",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/08_SEE‐SAW_LOVE(シーソー・ラブ)_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SEE‐SAW LOVE（シーソー・ラブ）",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/09_SEE‐SAW_LOVE(シーソー・ラブ)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エゴイスティック・シーソー (2025 ver.)",
+      "artist": "博衣こより",
+      "has_synced": true,
+      "path": "select/10_エゴイスティック・シーソー_(2025_ver.)_博衣こより.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーソー - Seesaw",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_シーソー_-_Seesaw_tuki..txt"
+    }
+  ]
+}
